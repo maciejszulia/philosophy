@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 349" width="960" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" role="img" aria-label="Każde ogniwo wynika z poprzedniego ogniwa. Oba zakończenia ogniwa 6 dają ten sam wynik.">
+<rect width="960" height="349" fill="#ffffff"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#111111"/></marker></defs>
+<text x="16" y="32" font-size="15" font-weight="bold" fill="#111111">Każde ogniwo wynika z poprzedniego ogniwa.</text>
+<text x="16" y="53" font-size="15" font-weight="bold" fill="#111111">Oba zakończenia ogniwa 6 dają ten sam wynik.</text>
+<polyline points="230,105.5 254,105.5" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="468,105.5 492,105.5" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="706,105.5 730,105.5" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="837,139 837,154 123,154 123,169" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="230,211 254,211" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="230,211 242,211 242,308 254,308" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="468,211 492,211" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="468,308 492,308" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="16" y="72" width="214" height="67" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="24" y="93" fill="#111111" font-weight="bold">1. Problem</text>
+<text x="24" y="110" fill="#111111">ludzkość rozwiązuje</text>
+<text x="24" y="127" fill="#111111">problem</text>
+<rect x="254" y="72" width="214" height="67" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="262" y="93" fill="#111111" font-weight="bold">2. Stan spokoju</text>
+<text x="262" y="110" fill="#111111">rośnie w miejscu</text>
+<text x="262" y="127" fill="#111111">rozwiązania</text>
+<rect x="492" y="72" width="214" height="67" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="500" y="93" fill="#111111" font-weight="bold">3. Nowe problemy</text>
+<text x="500" y="110" fill="#111111">powstają w innym</text>
+<text x="500" y="127" fill="#111111">miejscu (teza 2)</text>
+<rect x="730" y="72" width="214" height="67" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="738" y="93" fill="#111111" font-weight="bold">4. System</text>
+<text x="738" y="110" fill="#111111">rozwiązuje problemy</text>
+<text x="738" y="127" fill="#111111">za człowieka</text>
+<rect x="16" y="169" width="214" height="84" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="24" y="190" fill="#111111" font-weight="bold">5. Człowiek</text>
+<text x="24" y="207" fill="#111111">traci problemy ciekawe</text>
+<text x="24" y="224" fill="#111111">i zdolność działania</text>
+<text x="24" y="241" fill="#111111">bez systemu</text>
+<rect x="254" y="169" width="214" height="84" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="262" y="198.5" fill="#111111" font-weight="bold">6a. Awaria systemu</text>
+<text x="262" y="215.5" fill="#111111">człowiek bez zdolności</text>
+<text x="262" y="232.5" fill="#111111">działania</text>
+<rect x="254" y="283" width="214" height="50" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="262" y="304" fill="#111111" font-weight="bold">6b. Perfekcja systemu</text>
+<text x="262" y="321" fill="#111111">człowiek bez różnic</text>
+<rect x="492" y="169" width="214" height="164" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+<text x="500" y="247" fill="#c8102e" font-weight="bold">Wynik</text>
+<text x="500" y="264" fill="#111111">ludzkość ginie</text>
+</svg>

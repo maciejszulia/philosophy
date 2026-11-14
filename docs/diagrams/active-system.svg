@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 252" width="960" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" role="img" aria-label="Układ aktywny żyje w obrocie między stanem niespokoju a stanem spokoju. Wola otwiera problem, uwaga zamyka problem, odpowiedzialność zaczyna nowy obrót.">
+<rect width="960" height="252" fill="#ffffff"/>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#111111"/></marker></defs>
+<text x="16" y="32" font-size="15" font-weight="bold" fill="#111111">Układ aktywny żyje w obrocie między stanem niespokoju a stanem spokoju.</text>
+<text x="16" y="53" font-size="15" font-weight="bold" fill="#111111">Wola otwiera problem, uwaga zamyka problem, odpowiedzialność zaczyna nowy obrót.</text>
+<polyline points="230,105.5 254,105.5" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="468,105.5 492,105.5" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="706,105.5 730,105.5" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="837,139 837,169" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="730,202.5 230,202.5" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<polyline points="123,169 123,139" fill="none" stroke="#111111" stroke-width="1.5" marker-end="url(#arrow)"/>
+<rect x="16" y="72" width="214" height="67" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+<text x="24" y="101.5" fill="#c8102e" font-weight="bold">Wola</text>
+<text x="24" y="118.5" fill="#111111">wybiera 1 problem</text>
+<rect x="254" y="72" width="214" height="67" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="262" y="101.5" fill="#111111" font-weight="bold">Stan niespokoju</text>
+<text x="262" y="118.5" fill="#111111">problem jest otwarty</text>
+<rect x="492" y="72" width="214" height="67" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+<text x="500" y="93" fill="#c8102e" font-weight="bold">Uwaga</text>
+<text x="500" y="110" fill="#111111">kieruje energię</text>
+<text x="500" y="127" fill="#111111">na problem</text>
+<rect x="730" y="72" width="214" height="67" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="738" y="101.5" fill="#111111" font-weight="bold">Stan spokoju</text>
+<text x="738" y="118.5" fill="#111111">problem jest zamknięty</text>
+<rect x="730" y="169" width="214" height="67" fill="#ffffff" stroke="#c8102e" stroke-width="2"/>
+<text x="738" y="190" fill="#c8102e" font-weight="bold">Odpowiedzialność</text>
+<text x="738" y="207" fill="#111111">przyjmuje skutki</text>
+<text x="738" y="224" fill="#111111">rozwiązania</text>
+<rect x="16" y="169" width="214" height="67" fill="#ffffff" stroke="#111111" stroke-width="1.5"/>
+<text x="24" y="190" fill="#111111" font-weight="bold">Nowe problemy</text>
+<text x="24" y="207" fill="#111111">skutki rozwiązania</text>
+<text x="24" y="224" fill="#111111">(teza 2)</text>
+</svg>
