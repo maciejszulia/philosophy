@@ -77,13 +77,13 @@ Czarna dziura ma horyzont zdarzeń. Promień horyzontu zdarzeń podaje wzór:
 $$r _{s} = \frac{2GM}{c^{2}} \qquad (1)$$
 
 - $r _{s}$: promień horyzontu zdarzeń, w metrach ($\mathrm{m}$);
-- $G$: stała grawitacji[^codata], $G = 6{,}674 \times 10^{-11}\ \mathrm{m^{3}\ kg^{-1}\ s^{-2}}$;
+- $G$: stała grawitacji[^codata], $G = \text{6,674} \times 10^{-11}\ \mathrm{m^{3}\ kg^{-1}\ s^{-2}}$;
 - $M$: masa czarnej dziury, w kilogramach ($\mathrm{kg}$);
 - $c$: prędkość światła w próżni[^codata], $c = 299\ 792\ 458\ \mathrm{m\ s^{-1}}$.
 
-Iloczyn $GM$ dla Słońca[^iau] wynosi $1{,}3271244 \times 10^{20}\ \mathrm{m^{3}\ s^{-2}}$. Dla Słońca wzór (1) daje:
+Iloczyn $GM$ dla Słońca[^iau] wynosi $\text{1,3271244} \times 10^{20}\ \mathrm{m^{3}\ s^{-2}}$. Dla Słońca wzór (1) daje:
 
-$$r _{s} = \frac{2 \cdot 1{,}3271244 \times 10^{20}}{(299\ 792\ 458)^{2}}\ \mathrm{m} = 2953\ \mathrm{m} \qquad (2)$$
+$$r _{s} = \frac{2 \cdot \text{1,3271244} \times 10^{20}}{(299\ 792\ 458)^{2}}\ \mathrm{m} = 2953\ \mathrm{m} \qquad (2)$$
 
 Słońce ma promień 695 700 km[^iau]. Czarna dziura o masie Słońca ma horyzont zdarzeń o promieniu 2,95 km. Światło, które jest pod horyzontem zdarzeń, nie wraca do obserwatora.
 
@@ -107,7 +107,7 @@ Ludwig Boltzmann powiązał entropię z liczbą ułożeń części układu[^bolt
 $$S = k \ln W \qquad (3)$$
 
 - $S$: entropia układu, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$);
-- $k$: stała Boltzmanna[^codata], $k = 1{,}380649 \times 10^{-23}\ \mathrm{J\ K^{-1}}$;
+- $k$: stała Boltzmanna[^codata], $k = \text{1,380649} \times 10^{-23}\ \mathrm{J\ K^{-1}}$;
 - $W$: liczba ułożeń części układu, które dają obserwatorowi ten sam obraz (liczba bez jednostki).
 
 Druga zasada termodynamiki mówi: entropia układu izolowanego nie maleje[^clausius]:
@@ -128,16 +128,16 @@ $$S _{BH} = \frac{k c^{3} A}{4 G \hbar} \qquad (5)$$
 
 - $S _{BH}$: entropia czarnej dziury, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$);
 - $A$: pole horyzontu zdarzeń, w metrach kwadratowych ($\mathrm{m^{2}}$);
-- $\hbar$: zredukowana stała Plancka[^codata], $\hbar = 1{,}054572 \times 10^{-34}\ \mathrm{J\ s}$;
+- $\hbar$: zredukowana stała Plancka[^codata], $\hbar = \text{1,054572} \times 10^{-34}\ \mathrm{J\ s}$;
 - $k$, $c$, $G$: stałe ze wzoru (1) i ze wzoru (3).
 
 Dla czarnej dziury o masie Słońca promień ze wzoru (2) daje pole horyzontu zdarzeń:
 
-$$A = 4 \pi r _{s}^{2} = 4 \pi \cdot (2953\ \mathrm{m})^{2} = 1{,}096 \times 10^{8}\ \mathrm{m^{2}} \qquad (6)$$
+$$A = 4 \pi r _{s}^{2} = 4 \pi \cdot (2953\ \mathrm{m})^{2} = \text{1,096} \times 10^{8}\ \mathrm{m^{2}} \qquad (6)$$
 
 Wzór (5) daje dla tego pola entropię:
 
-$$S _{BH} = 1{,}45 \times 10^{54}\ \mathrm{J\ K^{-1}} \qquad (7)$$
+$$S _{BH} = \text{1,45} \times 10^{54}\ \mathrm{J\ K^{-1}} \qquad (7)$$
 
 Pole ze wzoru (6) to $110\ \mathrm{km^{2}}$. Kwadrat o tym polu ma bok 10,5 km. Entropia ze wzoru (7) jest o 20 rzędów wielkości większa niż entropia Słońca[^scholarpedia]. Żaden obszar o tym samym polu powierzchni nie pomieści entropii większej niż entropia czarnej dziury[^bousso].
 
@@ -360,7 +360,7 @@ Z tezy 8 i z tezy 9 wynikają 4 zalecenia:
 
 Taylor opisał koniec, w którym czarna dziura pochłania wszechświat[^kirkus]. Pomiary supernowych z 1998 r. pokazały, że rozszerzanie wszechświata przyspiesza[^riess]. Fizyka opisuje od 1998 r. także inny koniec.
 
-Gwiazdy zużywają paliwo jądrowe i gasną. Czarna dziura traci masę przez promieniowanie Hawkinga[^hawking]. Czarna dziura o masie Słońca paruje dłużej niż $10^{66}$ lat[^hawking]. Wszechświat ma $1{,}38 \times 10^{10}$ lat[^planck]. Parowanie trwa więc więcej niż $10^{55}$ razy dłużej niż dotychczasowe dzieje wszechświata.
+Gwiazdy zużywają paliwo jądrowe i gasną. Czarna dziura traci masę przez promieniowanie Hawkinga[^hawking]. Czarna dziura o masie Słońca paruje dłużej niż $10^{66}$ lat[^hawking]. Wszechświat ma $\text{1,38} \times 10^{10}$ lat[^planck]. Parowanie trwa więc więcej niż $10^{55}$ razy dłużej niż dotychczasowe dzieje wszechświata.
 
 Po wyparowaniu czarnych dziur wszechświat zawiera tylko rozproszone cząstki o malejącej energii[^adams]. Wszechświat dąży wtedy do stanu, który ma 0 różnic. Wszechświat bez różnic ma największy stan spokoju i największy stan chaosu. Żaden układ aktywny nie działa we wszechświecie bez różnic.
 
