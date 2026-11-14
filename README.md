@@ -1,14 +1,8 @@
 # Perfekcja – koniec ludzkości?
 
-Co robi człowiek, któremu skończyły się problemy?
-
 Ten tekst stawia 10 tez o problemach, o spokoju i o człowieku. Tekst jest zapisany w Polszczyźnie Kontrolowanej (PK).
 
-Każdy rozdział ma 4 części: zjawisko, tezę, słabe miejsce tezy i pytania. Tekst nie prosi czytelnika o zgodę. Tekst prosi czytelnika o sprawdzenie.
-
-> Legenda: PK to polski z regułami, po których zdanie ma 1 znaczenie. „Lub” znaczy: co najmniej 1 z członów. „Albo” znaczy: dokładnie 1 z członów. POWINIEN to zalecenie. MOŻE to zezwolenie.
->
-> Słowo „Teza” oznacza twierdzenie filozoficzne bez pomiaru. Słabe miejsce tezy oznacza założenie, którego tekst nie dowodzi.
+> Legenda: PK to polski z regułami, po których zdanie ma 1 znaczenie. „Lub” znaczy: co najmniej 1 z członów. „Albo” znaczy: dokładnie 1 z członów. POWINIEN to zalecenie. Słowo „Teza” oznacza twierdzenie filozoficzne bez pomiaru.
 
 Liczba w indeksie górnym odsyła do przypisu w sekcji „Przypisy”. Liczba w nawiasie okrągłym po słowie „wzór” wskazuje wzór o tym numerze.
 
@@ -25,7 +19,7 @@ Liczba w indeksie górnym odsyła do przypisu w sekcji „Przypisy”. Liczba w 
 9. [Co proponuje ten tekst?](#9-co-proponuje-ten-tekst)
 10. [Do czego prowadzi wszystko?](#10-do-czego-prowadzi-wszystko)
 
-Po rozdziałach stoją 4 sekcje: [Tezy](#tezy), [Jak spierać się z tym tekstem](#jak-spierać-się-z-tym-tekstem), [Decyzje i braki](#decyzje-i-braki), [Przypisy](#przypisy).
+Po rozdziałach stoją 3 sekcje: [Tezy](#tezy), [Decyzje i braki](#decyzje-i-braki), [Przypisy](#przypisy).
 
 ## Słownik
 
@@ -89,14 +83,7 @@ Słońce ma promień 695 700 km[^iau]. Czarna dziura o masie Słońca ma horyzon
 
 Taylor pisze, że w czarnej dziurze podstawowe prawa wszechświata „wydają się zniszczone, razem z naszymi zwykłymi pojęciami przestrzeni i czasu”[^kirkus]. Taylor wnioskuje, że czarna dziura pochłonie w końcu cały wszechświat[^kirkus]. Pytanie w tytule książki Taylora wynika z tego wniosku.
 
-Ten tekst pożycza od Taylora metodę. Każdy rozdział zaczyna się od zjawiska. Każdy rozdział przenosi potem zjawisko na człowieka. Taylor pytał o koniec wszechświata. Ten tekst pyta o koniec ludzkości.
-
-**Słabe miejsce metody.** Przeniesienie zjawiska na człowieka jest analogią. Analogia podaje kształt zależności. Analogia nie podaje dowodu. Każdy rozdział nazywa miejsce, w którym analogia przestaje działać.
-
-**Pytania**
-
-1. Taylor zaczął od śmierci gwiazdy, żeby mówić o śmierci człowieka. Od jakiego zjawiska zacząłbyś ty?
-2. Podaj 1 prawo fizyki, które mówi prawdę o człowieku. Potem podaj 1 prawo fizyki, które o człowieku milczy.
+Ten tekst pożycza od Taylora metodę. Każdy rozdział zaczyna się od zjawiska. Każdy rozdział przenosi potem zjawisko na człowieka. Przeniesienie jest analogią, a nie dowodem. Taylor pytał o koniec wszechświata. Ten tekst pyta o koniec ludzkości.
 
 ## 2. Czy stan spokoju jest przeciwieństwem stanu chaosu?
 
@@ -143,14 +130,6 @@ Pole ze wzoru (6) to 110 kilometrów kwadratowych. Kwadrat o tym polu ma bok 10,
 
 Obserwator z zewnątrz mierzy tylko 3 wielkości czarnej dziury: masę, ładunek i moment pędu[^mtw]. Obserwator widzi więc czarną dziurę jako układ bez różnic. Czarna dziura ma zatem największy stan spokoju i największy stan chaosu.
 
-**Słabe miejsce tezy 1.** Teza 1 dotyczy układu izolowanego. Ziemia dostaje energię od Słońca, więc Ziemia jest układem otwartym. Lodówka z rozdziału 3 zmniejsza entropię własnego wnętrza. Przeniesienie tezy 1 na ludzkość jest analogią.
-
-**Pytania**
-
-1. Herbata osiąga stan spokoju bez pomocy. Co utrzymuje twoje ciało z dala od stanu spokoju?
-2. Podaj układ, w którym stan spokoju rośnie, a stan chaosu maleje. Sprawdź, czy ten układ jest izolowany.
-3. Cisza w domu wygląda jak stan spokoju. Czy cisza w domu jest stanem spokoju ze Słownika?
-
 ## 3. Dlaczego rozwiązanie tworzy problemy?
 
 Lodówka chłodzi wnętrze i grzeje kuchnię. Lodówka zmniejsza entropię wnętrza. Lodówka zwiększa w tym samym czasie entropię kuchni. Wzrost entropii kuchni jest większy niż spadek entropii wnętrza[^clausius]:
@@ -174,14 +153,6 @@ Przykłady (lista niepełna):
 
 Z tezy 2 wynika zalecenie. Człowiek POWINIEN wybierać rozwiązanie o najmniejszej złożoności. Rozwiązanie złożone z 1 części ma 1 miejsce na nowy problem. Rozwiązanie złożone z 10 części ma co najmniej 10 takich miejsc.
 
-**Słabe miejsce tezy 2.** Słowo „każde” jest najmocniejszym słowem tezy 2. Jeżeli istnieje 1 rozwiązanie bez nowego problemu, to teza 2 jest fałszywa. Kandydat na takie rozwiązanie istnieje. Szczepienia usunęły ospę prawdziwą: Światowa Organizacja Zdrowia ogłosiła koniec choroby w 1980 r.[^smallpox].
-
-**Pytania**
-
-1. Jaki nowy problem powstał po usunięciu ospy prawdziwej? Jeżeli żaden, to jak brzmi poprawiona teza 2?
-2. Wybierz 1 rozwiązanie z własnego dnia. Nazwij problem, który to rozwiązanie stworzyło.
-3. Podaj przypadek, w którym rozwiązanie o większej złożoności jest lepsze.
-
 ## 4. Dlaczego problem jest ciekawy?
 
 Kamień na dnie doliny leży bez ruchu. Kamień na zboczu toczy się w dół. Ruch wymaga różnicy wysokości. Tylko jeżeli różnica istnieje, układ aktywny ma na co wydatkować energię.
@@ -199,15 +170,6 @@ Energia człowieka zostaje po zniknięciu problemu bliskiego. Energia bez celu k
 **Teza 3.** Problemy bliskie są ciekawe, a liczba problemów bliskich maleje. Ludzie odczuwają dlatego niechęć do innych ludzi. Ludzie odczuwają też niechęć ogólną, czyli niechęć bez celu.
 
 Niechęć ludzi jest więc zrozumiała. Niechęć jest skutkiem braku problemów bliskich.
-
-**Słabe miejsce tezy 3.** Teza 3 łączy brak problemów bliskich z niechęcią. Tekst nie podaje pomiaru takiego związku. Badanie z przyciskiem potwierdza tylko 1 ogniwo: człowiek źle znosi brak zajęcia. Badanie dotyczy 42 osób i 15 min.
-
-**Pytania**
-
-1. Kiedy rozwiązałeś problem bliski własnymi rękami? Podaj datę.
-2. 2 osoby rozwiązują razem 1 problem bliski. Czy niechęć między tymi osobami maleje? Sprawdź na sobie.
-3. Co zmienia problem daleki w problem bliski?
-4. Nacisnąłbyś przycisk?
 
 ## 5. Dlaczego pogoń za perfekcją prowadzi do wyginięcia?
 
@@ -230,14 +192,7 @@ Jeżeli system ulega awarii, to człowiek bez zdolności działania ginie. Jeże
 
 **Teza 4.** Pogoń za perfekcją prowadzi do wyginięcia ludzkości.
 
-**Słabe miejsce tezy 4.** Ogniwo 6 podaje 2 zakończenia. Istnieje trzecie zakończenie: system działa z usterkami bez końca. System z usterkami zostawia człowiekowi problemy bliskie. Tylko jeżeli pogoń za perfekcją usuwa każdą usterkę, teza 4 zachodzi. Usterka systemu chroni więc człowieka. Teza 4 jest wnioskiem z analogii i nie ma daty.
-
-**Pytania**
-
-1. Które ogniwo ciągu jest najsłabsze? Uzasadnij w 1 zdaniu.
-2. Maszyna spełnia każde twoje życzenie w chwili życzenia. Co robisz w dobie numer 2?
-3. Kto ma prawo zatrzymać pogoń za perfekcją przed ogniwem 5?
-4. Nazwij 1 usterkę, za którą jesteś wdzięczny.
+Teza 4 jest wnioskiem z analogii. Teza 4 nie ma pomiaru ani daty.
 
 ## 6. Czy niewiedza jest błogością?
 
@@ -257,15 +212,6 @@ Maszyna bez ciała nie zna głodu. Maszyna z pełną pamięcią niczego nie zapo
 
 Uzasadnienie tezy 5: fizyczność i głupota odnawiają różnice. Różnice utrzymują człowieka jako układ aktywny.
 
-**Słabe miejsce tezy 5.** Teza 5 chwali ograniczenie, które zostawia człowiekowi różnicę. Choroba też jest ograniczeniem, a choroba zabiera człowiekowi siły. Tekst nie podaje granicy między ograniczeniem, które daje problem, a ograniczeniem, które zabiera życie.
-
-**Pytania**
-
-1. Maszyna oferuje ci odpowiedź na każde pytanie. Przyjmujesz ofertę? Uzasadnij.
-2. Którą własną niewiedzę chcesz zachować?
-3. Ciało wymusza sen w każdej dobie. Sen jest stratą czasu albo źródłem różnicy. Wybierz i uzasadnij.
-4. Gdzie leży granica, której tekst nie podał?
-
 ## 7. Czy obserwator odróżni człowieka od maszyny?
 
 Obserwator z zewnątrz mierzy 3 wielkości czarnej dziury: masę, ładunek i moment pędu[^mtw]. 2 czarne dziury, które mają tę samą masę, ten sam ładunek i ten sam moment pędu, są dla obserwatora identyczne. Pochodzenie czarnej dziury znika pod horyzontem zdarzeń. Obserwator nie odróżni czarnej dziury z gwiazdy od czarnej dziury z biblioteki.
@@ -282,15 +228,6 @@ Teza 6 ma 2 części. Dla rozmowy pisemnej o czasie 5 min pomiar z 2025 r. potwi
 
 Wola, uwaga i odpowiedzialność zostają po stronie człowieka. Żaden z tych 3 aktów nie jest widoczny w wytworze. Obserwator nie potwierdzi więc człowiekowi człowieczeństwa. Człowiek sam potwierdza własne człowieczeństwo aktem woli, uwagi i odpowiedzialności.
 
-**Słabe miejsce tezy 6.** Gra Turinga mierzy obserwatora, a nie maszynę. Wynik gry zależy od czasu rozmowy i od wprawy obserwatora. Tekst nie zna wyniku dla rozmowy o czasie 5 h. Tekst nie zna też wyniku dla obserwatora, który zna rozmówcę od 20 lat.
-
-**Pytania**
-
-1. Po czym poznajesz, że list od przyjaciela napisał przyjaciel?
-2. Jakie pytanie zadałbyś w grze Turinga? Dlaczego maszyna odpowie na to pytanie inaczej niż człowiek?
-3. Gdzie poza wytworem obserwator widzi wolę, uwagę i odpowiedzialność?
-4. Jeżeli obserwator nie odróżnia człowieka od maszyny, to co obserwator traci?
-
 ## 8. O czym człowiek POWINIEN milczeć?
 
 Obserwator z zewnątrz nie dostaje żadnej informacji spod horyzontu zdarzeń. Fizyk, który opisuje wnętrze czarnej dziury, opisuje równania, a nie pomiar.
@@ -303,18 +240,9 @@ Język ma własny horyzont zdarzeń. Zdanie o fakcie leży przed horyzontem: cz�
 
 Wykładnia tezy 7 w tym tekście: człowiek potrafi powiedzieć tylko zdanie, które człowiek potrafi sprawdzić. Z tezy 7 wynika zalecenie dla pracy z maszyną. Człowiek POWINIEN żądać od maszyny tylko wyniku, który człowiek potrafi sprawdzić.
 
-Teza 4, teza 5 i teza 10 nie mają żadnego pomiaru. Tekst łamie więc tezę 7 co najmniej w 3 miejscach. Wittgenstein znał tę sprzeczność. Wittgenstein nazwał tezy własnej książki drabiną: czytelnik wchodzi po drabinie i odrzuca drabinę[^ladder]. Tezy tego tekstu są taką drabiną.
+Wittgenstein nazwał tezy własnej książki drabiną: czytelnik wchodzi po drabinie i odrzuca drabinę[^ladder]. Tezy tego tekstu są taką drabiną.
 
-Ten tekst stosuje tezę 7 tam, gdzie tekst potrafi. Tezy są nazwane tezami. Fakty mają źródła. Słabe miejsce każdej tezy ma nazwę. O roku w drugiej części tezy 6 tekst milczy.
-
-**Słabe miejsce tezy 7.** Teza 7 jest zdaniem, którego człowiek nie potrafi sprawdzić. Teza 7 zakazuje więc samej siebie.
-
-**Pytania**
-
-1. Zdanie „kocham cię” jest zdaniem sprawdzalnym albo zdaniem zza horyzontu. Wybierz i uzasadnij.
-2. Podaj zdanie, które jest ważne i którego żaden człowiek nie potrafi sprawdzić.
-3. Milczenie i niewiedza wyglądają z zewnątrz tak samo. Jak obserwator odróżnia milczenie od niewiedzy?
-4. Którą drabinę już odrzuciłeś?
+Ten tekst stosuje tezę 7 do siebie. Tezy od 1 do 10 włącznie są nazwane tezami. Fakty mają źródła. O roku w drugiej części tezy 6 tekst milczy.
 
 ## 9. Co proponuje ten tekst?
 
@@ -347,15 +275,6 @@ Z tezy 8 i z tezy 9 wynikają 4 zalecenia:
 3. Człowiek POWINIEN zostawić sobie co najmniej 1 problem bliski.
 4. Człowiek POWINIEN wybierać rozwiązanie o najmniejszej złożoności (rozdział 3).
 
-**Słabe miejsce tez 8 i 9.** Słowo „samoistny” i słowo „świadomy” ciągną tezę 8 w 2 strony. Serce bije bez wyboru, a akt wymaga wyboru. Tekst przyjmuje bez dowodu, że człowiek potrafi wybrać to, co serce robi bez wyboru. Teza 9 opisuje kierunek, a nie stan. 1 człowiek nie wytworzy sam leku, stali i układu scalonego.
-
-**Pytania**
-
-1. Policz, ile dób przeżyjesz bez prądu, bez sklepu i bez sieci.
-2. Od którego z 4 dóbr zaczniesz: żywność, ciepło, woda albo energia?
-3. Kto wybrał problem, nad którym pracujesz: ty albo system?
-4. Czy akt, którego nikt nie widzi, jest aktem?
-
 ## 10. Do czego prowadzi wszystko?
 
 Taylor opisał koniec, w którym czarna dziura pochłania wszechświat[^kirkus]. Pomiary supernowych z 1998 r. pokazały, że rozszerzanie wszechświata przyspiesza[^riess]. Fizyka opisuje od 1998 r. także inny koniec.
@@ -367,15 +286,6 @@ Po wyparowaniu czarnych dziur wszechświat zawiera tylko rozproszone cząstki o 
 Oba opisy końca dają ten sam wynik: stan bez różnic. Słownik nazywa stan bez różnic słowem „nic”.
 
 **Teza 10.** Wszystko prowadzi do niczego.
-
-**Słabe miejsce tezy 10.** Teza 10 opisuje koniec, a nie drogę. Opis końca zależy od modelu kosmologicznego. Pomiary z 1998 r. zmieniły opis, który znał Taylor. Nowe pomiary MOGĄ zmienić opis jeszcze raz.
-
-**Pytania**
-
-1. Mecz kończy się wynikiem, książka kończy się stroną, życie kończy się śmiercią. Czy koniec odbiera wartość drodze?
-2. Jaki problem zostawiłbyś sobie jako końcowy?
-3. Koniec leży dalej niż czas parowania czarnej dziury. Czy tak daleki koniec zmienia twój plan na kolejną dobę?
-4. Tekst kończy milczeniem. O czym ty chcesz mówić dalej?
 
 Droga do niczego trwa. Na tej drodze człowiek ma problemy, a problemy są ciekawe. O reszcie ten tekst milczy.
 
@@ -392,18 +302,6 @@ Droga do niczego trwa. Na tej drodze człowiek ma problemy, a problemy są cieka
 9. Uniezależnienie człowieka od systemu jest zależnością człowieka od własnej woli przetrwania.
 10. Wszystko prowadzi do niczego.
 
-## Jak spierać się z tym tekstem
-
-Wykonaj każdy krok w tej kolejności:
-
-1. Wybierz 1 tezę.
-2. Przeczytaj słabe miejsce tej tezy.
-3. Znajdź 1 przypadek, który przeczy tezie.
-4. Zapisz przypadek jako zdanie, które drugi człowiek potrafi sprawdzić.
-5. Popraw tezę tak, żeby teza wytrzymała ten przypadek.
-
-Wynik: masz własną tezę i własne słabe miejsce.
-
 ## Decyzje i braki
 
 | Nr | Fragment | Reguła | Znaczenia lub brak | Wybór |
@@ -414,14 +312,13 @@ Wynik: masz własną tezę i własne słabe miejsce.
 | 4 | „we are running out of problems to solve” | Granice standardu | Cytat po angielsku. | Cytat stoi bez zmian, z przekładem. |
 | 5 | „stan spokoju”, „stan chaosu” | A4 | W języku potocznym oba terminy są bez miary. | Słownik definiuje oba terminy przez różnice i przez entropię. |
 | 6 | „O czym nie można mówić, o tym trzeba milczeć” | B1 | Cytat nie nazywa wykonawcy. | Cytat stoi bez zmian. Teza 7 nazywa wykonawcę. |
-| 7 | Przeniesienie zjawiska na człowieka | F | Brak pomiaru. | Tekst nazywa przeniesienie analogią, a twierdzenie tezą. Każda teza ma nazwane słabe miejsce. |
+| 7 | Przeniesienie zjawiska na człowieka | F | Brak pomiaru. | Tekst nazywa przeniesienie analogią, a twierdzenie tezą. |
 | 8 | „Wszystko prowadzi do niczego” | A4 | Słowo „nic” ma 2 znaczenia: brak rzeczy; stan bez różnic. | Słownik wybiera znaczenie: stan bez różnic. |
 | 9 | Zdanie Taylora o prawach wszechświata | Granice standardu | Polskie wydanie[^piw] nie było dostępne przy pisaniu. | Przekład z angielskiego za recenzją[^kirkus]. |
 | 10 | Jednostki i stałe we wzorach | D1, E5 | Zapis znakami spoza LaTeX rozdziela liczbę i jednostkę przy składzie. | Każdy wzór, każda stała i każda jednostka ma zapis w LaTeX. Wzory mają numery od (1) do (8) włącznie. |
 | 11 | Teza 1 | A4 | Zdanie o „układzie” ma 2 znaczenia: każdy układ; układ izolowany. | Teza 1 dotyczy układu izolowanego. |
 | 12 | Teza 2 i zdanie „we are running out of problems to solve” | A1 | 2 zdania o problemach wyglądają na sprzeczne: problemów przybywa; problemów ubywa. | Słownik rozdziela problem bliski i problem daleki. Teza 3 mówi o problemach bliskich. |
 | 13 | „samoistne dążenie” (teza 8) | A4 | Słowo „samoistny” ma 2 znaczenia: bez wyboru; bez polecenia z zewnątrz. | Słownik wybiera znaczenie: bez polecenia z zewnątrz. |
-| 14 | Pytania do czytelnika | B3 | Pytanie zwraca się do czytelnika w 2. osobie. | Pytanie jest poleceniem dla czytelnika, więc 2. osoba zostaje. |
 
 ## Powiązane repozytoria
 
@@ -447,7 +344,6 @@ Wynik: masz własną tezę i własne słabe miejsce.
 [^schrodinger]: E. Schrödinger, „What Is Life? The Physical Aspect of the Living Cell”, Cambridge University Press, Cambridge 1944, rozdział 6.
 [^who]: Światowa Organizacja Zdrowia (WHO), karta informacyjna [„Antimicrobial resistance”](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance).
 [^ipcc]: Międzyrządowy Zespół do spraw Zmian Klimatu (IPCC), „Climate Change 2021: The Physical Science Basis”, część „Summary for Policymakers”, punkt A.1.1 i sekcja A.2, Cambridge University Press, Cambridge 2023. [doi:10.1017/9781009157896.001](https://doi.org/10.1017/9781009157896.001)
-[^smallpox]: Światowa Organizacja Zdrowia (WHO), strona tematyczna [„Smallpox”](https://www.who.int/health-topics/smallpox). Naturalne zakażenia ustały w 1977 r. w Somalii.
 [^wilson]: T. D. Wilson i 7 współautorów, „Just think: The challenges of the disengaged mind”, „Science” 345 (6192), 75–77 (2014). [doi:10.1126/science.1250830](https://doi.org/10.1126/science.1250830). Liczby pochodzą z badania numer 10 w tej pracy.
 [^gray]: T. Gray, „Ode on a Distant Prospect of Eton College”, wiersz napisany w 1742 r., wydany w 1747 r. w Londynie.
 [^turing]: A. M. Turing, „Computing Machinery and Intelligence”, „Mind” 59 (236), 433–460 (1950). [doi:10.1093/mind/LIX.236.433](https://doi.org/10.1093/mind/LIX.236.433). Turing pisze o wyniku „in about fifty years' time”.
