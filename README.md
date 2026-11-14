@@ -64,11 +64,11 @@ Czarna dziura ma horyzont zdarzeń. Promień horyzontu zdarzeń podaje wzór:
 $$r _{s} = \frac{2GM}{c^{2}} \qquad (1)$$
 
 - $r _{s}$: promień horyzontu zdarzeń, w metrach ($\mathrm{m}$);
-- $G$: stała grawitacji, $G = 6{,}674 \times 10^{-11}\ \mathrm{m^{3}\ kg^{-1}\ s^{-2}}$[^codata];
+- $G$: stała grawitacji[^codata], $G = 6{,}674 \times 10^{-11}\ \mathrm{m^{3}\ kg^{-1}\ s^{-2}}$;
 - $M$: masa czarnej dziury, w kilogramach ($\mathrm{kg}$);
-- $c$: prędkość światła w próżni, $c = 299\ 792\ 458\ \mathrm{m\ s^{-1}}$[^codata].
+- $c$: prędkość światła w próżni[^codata], $c = 299\ 792\ 458\ \mathrm{m\ s^{-1}}$.
 
-Iloczyn $GM$ dla Słońca wynosi $1{,}3271244 \times 10^{20}\ \mathrm{m^{3}\ s^{-2}}$[^iau]. Dla Słońca wzór (1) daje:
+Iloczyn $GM$ dla Słońca[^iau] wynosi $1{,}3271244 \times 10^{20}\ \mathrm{m^{3}\ s^{-2}}$. Dla Słońca wzór (1) daje:
 
 $$r _{s} = \frac{2 \cdot 1{,}3271244 \times 10^{20}}{(299\ 792\ 458)^{2}}\ \mathrm{m} = 2953\ \mathrm{m} \qquad (2)$$
 
@@ -87,7 +87,7 @@ Ludwig Boltzmann powiązał entropię z liczbą ułożeń części układu[^bolt
 $$S = k \ln W \qquad (3)$$
 
 - $S$: entropia układu, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$);
-- $k$: stała Boltzmanna, $k = 1{,}380649 \times 10^{-23}\ \mathrm{J\ K^{-1}}$[^codata];
+- $k$: stała Boltzmanna[^codata], $k = 1{,}380649 \times 10^{-23}\ \mathrm{J\ K^{-1}}$;
 - $W$: liczba ułożeń części układu, które dają obserwatorowi ten sam obraz (liczba bez jednostki).
 
 Druga zasada termodynamiki mówi: entropia układu izolowanego nie maleje[^clausius]:
@@ -108,7 +108,7 @@ $$S _{BH} = \frac{k c^{3} A}{4 G \hbar} \qquad (5)$$
 
 - $S _{BH}$: entropia czarnej dziury, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$);
 - $A$: pole horyzontu zdarzeń, w metrach kwadratowych ($\mathrm{m^{2}}$);
-- $\hbar$: zredukowana stała Plancka, $\hbar = 1{,}054572 \times 10^{-34}\ \mathrm{J\ s}$[^codata];
+- $\hbar$: zredukowana stała Plancka[^codata], $\hbar = 1{,}054572 \times 10^{-34}\ \mathrm{J\ s}$;
 - $k$, $c$, $G$: stałe ze wzoru (1) i ze wzoru (3).
 
 Żaden obszar o tym samym polu powierzchni nie pomieści entropii większej niż entropia czarnej dziury[^bousso]. Obserwator z zewnątrz mierzy tylko 3 wielkości czarnej dziury: masę, ładunek i moment pędu[^mtw]. Obserwator widzi więc czarną dziurę jako układ bez różnic. Czarna dziura ma zatem największy stan spokoju i największy stan chaosu.
