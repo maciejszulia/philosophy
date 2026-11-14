@@ -61,16 +61,16 @@ Gwiazda świeci, dopóki ciśnienie gazu równoważy ciężar gwiazdy. Gdy paliw
 
 Czarna dziura ma horyzont zdarzeń. Promień horyzontu zdarzeń podaje wzór:
 
-$$r _{s} = \frac{2GM}{c^{2}} \tag{1}$$
+$$r _{s} = \frac{2GM}{c^{2}} \qquad (1)$$
 
 - $r _{s}$: promień horyzontu zdarzeń, w metrach ($\mathrm{m}$);
 - $G$: stała grawitacji, $G = 6{,}674 \times 10^{-11}\ \mathrm{m^{3}\ kg^{-1}\ s^{-2}}$[^codata];
 - $M$: masa czarnej dziury, w kilogramach ($\mathrm{kg}$);
-- $c$: prędkość światła w próżni, $c = 299\ 792\ 458\ \mathrm{m/s}$[^codata].
+- $c$: prędkość światła w próżni, $c = 299\ 792\ 458\ \mathrm{m\ s^{-1}}$[^codata].
 
 Iloczyn $GM$ dla Słońca wynosi $1{,}3271244 \times 10^{20}\ \mathrm{m^{3}\ s^{-2}}$[^iau]. Dla Słońca wzór (1) daje:
 
-$$r _{s} = \frac{2 \cdot 1{,}3271244 \times 10^{20}}{(299\ 792\ 458)^{2}}\ \mathrm{m} = 2953\ \mathrm{m} \tag{2}$$
+$$r _{s} = \frac{2 \cdot 1{,}3271244 \times 10^{20}}{(299\ 792\ 458)^{2}}\ \mathrm{m} = 2953\ \mathrm{m} \qquad (2)$$
 
 Horyzont zdarzeń czarnej dziury o masie Słońca ma więc promień 2,95 km. Światło, które jest pod horyzontem zdarzeń, nie wraca do obserwatora.
 
@@ -84,17 +84,17 @@ Herbata o temperaturze 90 °C stygnie w kuchni o temperaturze 20 °C. Herbata st
 
 Ludwig Boltzmann powiązał entropię z liczbą ułożeń części układu[^boltzmann]:
 
-$$S = k \ln W \tag{3}$$
+$$S = k \ln W \qquad (3)$$
 
-- $S$: entropia układu, w dżulach na kelwin ($\mathrm{J/K}$);
-- $k$: stała Boltzmanna, $k = 1{,}380649 \times 10^{-23}\ \mathrm{J/K}$[^codata];
+- $S$: entropia układu, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$);
+- $k$: stała Boltzmanna, $k = 1{,}380649 \times 10^{-23}\ \mathrm{J\ K^{-1}}$[^codata];
 - $W$: liczba ułożeń części układu, które dają obserwatorowi ten sam obraz (liczba bez jednostki).
 
 Druga zasada termodynamiki mówi: entropia układu izolowanego nie maleje[^clausius]:
 
-$$\Delta S \ge 0 \tag{4}$$
+$$\Delta S \ge 0 \qquad (4)$$
 
-- $\Delta S$: zmiana entropii układu izolowanego w każdym odcinku czasu, w dżulach na kelwin ($\mathrm{J/K}$).
+- $\Delta S$: zmiana entropii układu izolowanego w każdym odcinku czasu, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$).
 
 Entropia jest największa w równowadze termodynamicznej.
 
@@ -104,9 +104,9 @@ Wzory (3) i (4) dają wniosek sprzeczny z intuicją. Układ w największym stani
 
 Czarna dziura jest przypadkiem skrajnym. Jacob Bekenstein i Stephen Hawking wykazali, że entropia czarnej dziury rośnie z polem horyzontu zdarzeń[^bekenstein]:
 
-$$S _{BH} = \frac{k c^{3} A}{4 G \hbar} \tag{5}$$
+$$S _{BH} = \frac{k c^{3} A}{4 G \hbar} \qquad (5)$$
 
-- $S _{BH}$: entropia czarnej dziury, w dżulach na kelwin ($\mathrm{J/K}$);
+- $S _{BH}$: entropia czarnej dziury, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$);
 - $A$: pole horyzontu zdarzeń, w metrach kwadratowych ($\mathrm{m^{2}}$);
 - $\hbar$: zredukowana stała Plancka, $\hbar = 1{,}054572 \times 10^{-34}\ \mathrm{J\ s}$[^codata];
 - $k$, $c$, $G$: stałe ze wzoru (1) i ze wzoru (3).
@@ -117,10 +117,10 @@ $$S _{BH} = \frac{k c^{3} A}{4 G \hbar} \tag{5}$$
 
 Lodówka chłodzi wnętrze i grzeje kuchnię. Lodówka zmniejsza entropię wnętrza. Lodówka zwiększa w tym samym czasie entropię kuchni. Wzrost entropii kuchni jest większy niż spadek entropii wnętrza[^clausius]:
 
-$$\Delta S _{1} + \Delta S _{2} \gt 0 \tag{6}$$
+$$\Delta S _{1} + \Delta S _{2} \gt 0 \qquad (6)$$
 
-- $\Delta S _{1}$: zmiana entropii wnętrza lodówki, liczba ujemna, w dżulach na kelwin ($\mathrm{J/K}$);
-- $\Delta S _{2}$: zmiana entropii kuchni, liczba dodatnia, w dżulach na kelwin ($\mathrm{J/K}$).
+- $\Delta S _{1}$: zmiana entropii wnętrza lodówki, liczba ujemna, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$);
+- $\Delta S _{2}$: zmiana entropii kuchni, liczba dodatnia, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$).
 
 Układ aktywny działa jak lodówka. Układ aktywny zmniejsza entropię w 1 miejscu. Układ aktywny zwiększa entropię otoczenia. Erwin Schrödinger opisał w 1944 r. życie w ten sam sposób: żywa komórka obniża własną entropię kosztem otoczenia[^schrodinger].
 
