@@ -76,12 +76,12 @@ Czarna dziura ma horyzont zdarzeń. Promień horyzontu zdarzeń podaje wzór:
 
 $$r _{s} = \frac{2GM}{c^{2}} \qquad (1)$$
 
-- $r _{s}$: promień horyzontu zdarzeń, w metrach ($\mathrm{m}$);
-- $G$: stała grawitacji[^codata], $G = \text{6,674} \times 10^{-11}\ \mathrm{m^{3}\ kg^{-1}\ s^{-2}}$;
-- $M$: masa czarnej dziury, w kilogramach ($\mathrm{kg}$);
-- $c$: prędkość światła w próżni[^codata], $c = 299\ 792\ 458\ \mathrm{m\ s^{-1}}$.
+- $r _{s}$: promień horyzontu zdarzeń, w metrach;
+- $G = \text{6,674} \times 10^{-11}\ \mathrm{m^{3}\ kg^{-1}\ s^{-2}}$: stała grawitacji[^codata];
+- $M$: masa czarnej dziury, w kilogramach;
+- $c = 299\ 792\ 458\ \mathrm{m\ s^{-1}}$: prędkość światła w próżni[^codata].
 
-Iloczyn $GM$ dla Słońca[^iau] wynosi $\text{1,3271244} \times 10^{20}\ \mathrm{m^{3}\ s^{-2}}$. Dla Słońca wzór (1) daje:
+Pomiary dają dla Słońca[^iau] iloczyn $GM = \text{1,3271244} \times 10^{20}\ \mathrm{m^{3}\ s^{-2}}$. Dla Słońca wzór (1) daje:
 
 $$r _{s} = \frac{2 \cdot \text{1,3271244} \times 10^{20}}{(299\ 792\ 458)^{2}}\ \mathrm{m} = 2953\ \mathrm{m} \qquad (2)$$
 
@@ -106,15 +106,15 @@ Ludwig Boltzmann powiązał entropię z liczbą ułożeń części układu[^bolt
 
 $$S = k \ln W \qquad (3)$$
 
-- $S$: entropia układu, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$);
-- $k$: stała Boltzmanna[^codata], $k = \text{1,380649} \times 10^{-23}\ \mathrm{J\ K^{-1}}$;
+- $S$: entropia układu, w dżulach na kelwin;
+- $k = \text{1,380649} \times 10^{-23}\ \mathrm{J\ K^{-1}}$: stała Boltzmanna[^codata];
 - $W$: liczba ułożeń części układu, które dają obserwatorowi ten sam obraz (liczba bez jednostki).
 
 Druga zasada termodynamiki mówi: entropia układu izolowanego nie maleje[^clausius]:
 
 $$\Delta S \ge 0 \qquad (4)$$
 
-- $\Delta S$: zmiana entropii układu izolowanego w każdym odcinku czasu, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$).
+- $\Delta S$: zmiana entropii układu izolowanego w każdym odcinku czasu, w dżulach na kelwin.
 
 Entropia układu izolowanego jest największa w równowadze termodynamicznej.
 
@@ -126,10 +126,10 @@ Czarna dziura jest przypadkiem skrajnym. Jacob Bekenstein i Stephen Hawking wyka
 
 $$S _{BH} = \frac{k c^{3} A}{4 G \hbar} \qquad (5)$$
 
-- $S _{BH}$: entropia czarnej dziury, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$);
-- $A$: pole horyzontu zdarzeń, w metrach kwadratowych ($\mathrm{m^{2}}$);
-- $\hbar$: zredukowana stała Plancka[^codata], $\hbar = \text{1,054572} \times 10^{-34}\ \mathrm{J\ s}$;
-- $k$, $c$, $G$: stałe ze wzoru (1) i ze wzoru (3).
+- $S _{BH}$: entropia czarnej dziury, w dżulach na kelwin;
+- $A$: pole horyzontu zdarzeń, w metrach kwadratowych;
+- $\hbar = \text{1,054572} \times 10^{-34}\ \mathrm{J\ s}$: zredukowana stała Plancka[^codata];
+- $k,\ c,\ G$: stałe ze wzoru (1) i ze wzoru (3).
 
 Dla czarnej dziury o masie Słońca promień ze wzoru (2) daje pole horyzontu zdarzeń:
 
@@ -139,7 +139,7 @@ Wzór (5) daje dla tego pola entropię:
 
 $$S _{BH} = \text{1,45} \times 10^{54}\ \mathrm{J\ K^{-1}} \qquad (7)$$
 
-Pole ze wzoru (6) to $110\ \mathrm{km^{2}}$. Kwadrat o tym polu ma bok 10,5 km. Entropia ze wzoru (7) jest o 20 rzędów wielkości większa niż entropia Słońca[^scholarpedia]. Żaden obszar o tym samym polu powierzchni nie pomieści entropii większej niż entropia czarnej dziury[^bousso].
+Pole ze wzoru (6) to 110 kilometrów kwadratowych. Kwadrat o tym polu ma bok 10,5 km. Entropia ze wzoru (7) jest o 20 rzędów wielkości większa niż entropia Słońca[^scholarpedia]. Żaden obszar o tym samym polu powierzchni nie pomieści entropii większej niż entropia czarnej dziury[^bousso].
 
 Obserwator z zewnątrz mierzy tylko 3 wielkości czarnej dziury: masę, ładunek i moment pędu[^mtw]. Obserwator widzi więc czarną dziurę jako układ bez różnic. Czarna dziura ma zatem największy stan spokoju i największy stan chaosu.
 
@@ -157,8 +157,8 @@ Lodówka chłodzi wnętrze i grzeje kuchnię. Lodówka zmniejsza entropię wnęt
 
 $$\Delta S _{1} + \Delta S _{2} \gt 0 \qquad (8)$$
 
-- $\Delta S _{1}$: zmiana entropii wnętrza lodówki, liczba ujemna, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$);
-- $\Delta S _{2}$: zmiana entropii kuchni, liczba dodatnia, w dżulach na kelwin ($\mathrm{J\ K^{-1}}$).
+- $\Delta S _{1}$: zmiana entropii wnętrza lodówki, liczba ujemna, w dżulach na kelwin;
+- $\Delta S _{2}$: zmiana entropii kuchni, liczba dodatnia, w dżulach na kelwin.
 
 Układ aktywny działa jak lodówka. Układ aktywny zmniejsza entropię w 1 miejscu. Układ aktywny zwiększa entropię otoczenia. Erwin Schrödinger opisał w 1944 r. życie w ten sam sposób: żywa komórka obniża własną entropię kosztem otoczenia[^schrodinger].
 
@@ -374,7 +374,7 @@ Oba opisy końca dają ten sam wynik: stan bez różnic. Słownik nazywa stan be
 
 1. Mecz kończy się wynikiem, książka kończy się stroną, życie kończy się śmiercią. Czy koniec odbiera wartość drodze?
 2. Jaki problem zostawiłbyś sobie jako końcowy?
-3. Koniec leży dalej niż $10^{66}$ lat. Czy tak daleki koniec zmienia twój plan na kolejną dobę?
+3. Koniec leży dalej niż czas parowania czarnej dziury. Czy tak daleki koniec zmienia twój plan na kolejną dobę?
 4. Tekst kończy milczeniem. O czym ty chcesz mówić dalej?
 
 Droga do niczego trwa. Na tej drodze człowiek ma problemy, a problemy są ciekawe. O reszcie ten tekst milczy.
