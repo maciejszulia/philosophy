@@ -31,7 +31,7 @@ DIAGRAMS = {
             node("n2", 1, 0, ["2. Stan spokoju", "rośnie w miejscu", "rozwiązania"]),
             node("n3", 2, 0, ["3. Nowe problemy", "powstają w innym", "miejscu (teza 2)"]),
             node("n4", 3, 0, ["4. System", "rozwiązuje problemy", "za człowieka"]),
-            node("n5", 0, 1, ["5. Człowiek", "traci problemy ciekawe", "i zdolność działania", "bez systemu"]),
+            node("n5", 0, 1, ["5. Człowiek", "traci problemy bliskie", "i zdolność działania", "bez systemu"]),
             node("n6a", 1, 1, ["6a. Awaria systemu", "człowiek bez zdolności", "działania"]),
             node("n6b", 1, 2, ["6b. Perfekcja systemu", "człowiek bez różnic"]),
             node("end", 2, 1, ["Wynik", "ludzkość ginie"], "accent", rows=2),
